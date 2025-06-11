@@ -20,7 +20,7 @@ This is a modern, real-time S&P 500 stock market dashboard built with React, Vit
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/slidracoon72/stock-prediction.git
 cd stock-prediction
 ```
 
